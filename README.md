@@ -3,20 +3,19 @@
 <a href="https://twitter.com/pr0_noob">
   <img align="left" alt="Samyak Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/the-uniq-sam">
   <img align="left" alt="Samyak's Linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://www.instagram.com/the_uniq_sam/">
   <img align="left" alt="Samyak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br/>
-<a href="https://github.com/the-uniq-sam">
-  Link to Github profile
+<a href="https://samyakgarg1008.medium.com/">
+  <img align="left" alt="Samyak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 <br/>
+
+
 
 Hi, I'm Samyak, CyberSec Enthusiast and learning to Pentest.
 <br/>

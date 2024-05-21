@@ -31,7 +31,7 @@ Root access (root.txt) to machines during Pentesting + AC(All Correct) during Co
 - :triangular_flag_on_post:Organiser of Axios Flagship Ctf on college level.
 - Member Of [Byt3Scr4pp3rs](https://ctftime.org/team/57772) ,College Senior CTF playing team
 - I practice Pentesting and Security stuff [@Tryhackme](https://tryhackme.com/p/pr0n00b).
-- I practice Pentesting stuff on [Hackthebox](https://www.hackthebox.eu/profile/98226) too.
+- I practice Pentesting stuff on [Hackthebox](https://app.hackthebox.com/profile/98226) too.
 - I use Codechef to enhace my Skills. [Codechef Profile](https://www.codechef.com/users/gargsam1008)
 - Reach me through: samyakjain455@gmail.com
 - Happy to help the way I can.☺️

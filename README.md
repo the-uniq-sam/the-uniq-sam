@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://twitter.com/pr0_noob">
+<a href="https://twitter.com/the_uniq_sam">
   <img align="left" alt="Samyak Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/the-uniq-sam">
